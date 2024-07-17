@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Disha Mondal and I'm pursuing BTECH undergraduate in Computer Science and Engineering, from Netaji Subhash Engineering College and am currently in second year. I'm familiar with Python, C, HTML, CSS, JavaScript and am exploring Tensorflow alongwith KerasAPI.</h3>
+<h3 align="left">Hi 👋! My name is Disha Mondal and I'm pursuing BTECH undergraduate in Computer Science and Engineering, from Netaji Subhash Engineering College and am currently in third year. I'm familiar with Python, C, HTML, CSS, JavaScript.</h3>
 
 ###
 
